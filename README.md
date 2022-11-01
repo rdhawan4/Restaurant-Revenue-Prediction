@@ -16,7 +16,7 @@ In this project, we used following techniques: <br>
 2. Regression Analysis : Decision Tree, Random Forest, MLP Regressor, Support Vector Regressor and Ridge Regressors <br>
 3. Stacking using VecStack <br>
 3. Hyper Parameter Tuning for all models <br>
-<br>
-# Note
+
+## Note
 Main Testcode : RestaurantRevenuePrediction.ipynb <br>
 Datasets available in Data folder <br>
