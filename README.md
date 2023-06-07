@@ -18,7 +18,7 @@ In this project, we used following techniques: <br>
 3. Hyper Parameter Tuning for all models <br>
 
 The testcode contains individual and stacked models:
-
+![image](https://github.com/rdhawan4/Restaurant-Revenue-Prediction/assets/112804900/22c2421f-4586-4eef-bd38-e94949d8b6e9)
 
 ## Note
 Main Testcode : RestaurantRevenuePrediction.ipynb <br>
