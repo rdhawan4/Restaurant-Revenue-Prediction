@@ -17,6 +17,9 @@ In this project, we used following techniques: <br>
 3. Stacking using VecStack <br>
 3. Hyper Parameter Tuning for all models <br>
 
+The testcode contains individual and stacked models:
+
+
 ## Note
 Main Testcode : RestaurantRevenuePrediction.ipynb <br>
 Datasets available in Data folder <br>
